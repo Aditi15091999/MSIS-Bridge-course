@@ -1,1 +1,1 @@
-# MSIS-Bridge-ourse C Practice Problems
+# MSIS-Bridge-Cousre C Practice Problems
