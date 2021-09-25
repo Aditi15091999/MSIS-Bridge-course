@@ -1,1 +1,1 @@
-# MSIS-Bridge-Cousre C Practice Problems
+# MSIS-Bridge-Course C Practice Problems
