@@ -1,0 +1,2 @@
+void toupperr(char*);
+
