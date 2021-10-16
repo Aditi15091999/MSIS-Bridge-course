@@ -1,0 +1,1 @@
+int multiples(int num);
